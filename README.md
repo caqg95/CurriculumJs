@@ -11,7 +11,7 @@ Con vista de aprender nuevas tecnologias realizare otro CV hecho con React JS,Gr
 <h1 align="center">
   Este es mi nuevo Sitio Web
 </h1>
-<p>Aun le falta, pero seguimos trabajando en el.</p>
+<p>Aun le falta, pero seguimos trabajando en el.Dale click a la imagen y te llevara al sitio</p> [Live Demo](https://my-site-caqg.netlify.app/)
 <p align="center">
   <a href="https://my-site-caqg.netlify.app/">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
